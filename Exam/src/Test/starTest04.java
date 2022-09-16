@@ -1,4 +1,4 @@
-package sub4;
+package Test;
 
 public class starTest04 {
 
