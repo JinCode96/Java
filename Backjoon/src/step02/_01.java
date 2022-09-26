@@ -15,7 +15,7 @@ public class _01 {
 			System.out.println(">");
 		}else if(A < B) {
 			System.out.println("<");
-		}else {
+		}else if (A == B) {
 			System.out.println("==");
 		}
 	}
